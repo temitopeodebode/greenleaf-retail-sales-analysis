@@ -41,6 +41,7 @@ The cleaned dataset was analyzed to understand:
 PivotTables were used to summarize the data and support the analysis.
 
 ## 📊 Dashboard
+![GreenLeaf Retail Sales Dashboard](greenleaf-sales-dashboard.png)
 An Excel dashboard was created to provide a visual summary of the sales performance and key metrics.
 Key metrics include:
 - Total Sales: ₦44,435,000
